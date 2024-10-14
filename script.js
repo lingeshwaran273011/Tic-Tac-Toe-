@@ -63,7 +63,7 @@ function cheakDraw(){
 
         if(isDraw){
             GameOver = turn;
-            document.querySelector("#result").innerHTML ="Drow"
+            document.querySelector("#result").innerHTML ="Draw"
             document.querySelector("#playagine").style.display = "inline"
         }
 
